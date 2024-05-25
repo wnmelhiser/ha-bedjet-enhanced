@@ -79,7 +79,10 @@ class BedjetDevice:
 class FanMode(Enum):
     min = 10
     low = 25
+    p45 = 45
     medium = 50
+    p55 = 55
+    p60 = 60
     high = 75
     max = 100
 
