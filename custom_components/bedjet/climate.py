@@ -157,7 +157,7 @@ class BedJetClimateEntity(BedJetEntity, ClimateEntity):
                 if name
             ]
         )
-        if preset_modes != self._attr_preset_modes:
+        if preset_modes != getattr(self, "_attr_preset_modes", None):
             self._attr_preset_modes = preset_modes
         self._attr_target_temperature = state.target_temperature
 
