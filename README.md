@@ -1,15 +1,3 @@
-<!-- BEGIN AUTO-GENERATED HEADER -->
-
-[![Release](https://img.shields.io/github/v/release/natekspencer/ha-bedjet?style=for-the-badge)](https://github.com/natekspencer/ha-bedjet/releases)
-[![HACS Badge](https://img.shields.io/badge/HACS-default-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
-[![Buy Me A Coffee/Beer](https://img.shields.io/badge/Buy_Me_A_☕/🍺-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=grey)](https://ko-fi.com/natekspencer)
-[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_💜-6f42c1?style=for-the-badge&logo=github&logoColor=white&labelColor=grey)](https://github.com/sponsors/natekspencer)
-
-![Downloads](https://img.shields.io/github/downloads/natekspencer/ha-bedjet/total?style=flat-square)
-![Latest Downloads](https://img.shields.io/github/downloads/natekspencer/ha-bedjet/latest/total?style=flat-square)
-
-<!-- END AUTO-GENERATED HEADER -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://brands.home-assistant.io/bedjet/dark_logo.png">
   <img alt="bedjet logo" src="https://brands.home-assistant.io/bedjet/logo.png">
@@ -74,21 +62,3 @@ Alternatively:
 ## Screenshot
 
 ![screenshot](images/BedJet3-HA.png)
-
-<!-- BEGIN AUTO-GENERATED FOOTER -->
-
-## ❤️ Support Me
-
-I maintain this Home Assistant integration in my spare time. If you find it useful, consider supporting development:
-
-- 💜 [Sponsor me on GitHub](https://github.com/sponsors/natekspencer)
-- ☕ [Buy me a coffee / beer](https://ko-fi.com/natekspencer)
-- 💸 [PayPal (direct support)](https://www.paypal.com/paypalme/natekspencer)
-- ⭐ [Star this project](https://github.com/natekspencer/ha-bedjet)
-- 📦 If you’d like to support in other ways, such as donating hardware for testing, feel free to [reach out to me](https://github.com/natekspencer)
-
-## 📈 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=natekspencer/ha-bedjet)](https://www.star-history.com/#natekspencer/ha-bedjet)
-
-<!-- END AUTO-GENERATED FOOTER -->
