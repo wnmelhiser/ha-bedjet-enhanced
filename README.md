@@ -19,6 +19,10 @@
 
 This project provides various entities to allow control of a [BedJet V2 or BedJet 3](https://bedjet.com) device.
 
+> 🙏 **Credits**
+>
+> This is a fork of [natekspencer/ha-bedjet](https://github.com/natekspencer/ha-bedjet), the original BedJet integration for Home Assistant. All credit for the core integration goes to [@natekspencer](https://github.com/natekspencer); this fork builds on that work. Please consider [sponsoring](https://github.com/sponsors/natekspencer) or [buying him a coffee](https://ko-fi.com/natekspencer) if you find this integration useful.
+
 > ⚠️ **Important**
 >
 > BedJet devices only allow **one active Bluetooth connection at a time**. If the BedJet mobile app is open (or running in the background) and connected to the device, Home Assistant will not be able to connect to it. The BedJet remote is not affected by this limitation, as it uses RF rather than Bluetooth.
