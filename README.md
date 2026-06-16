@@ -62,21 +62,3 @@ Alternatively:
 ## Screenshot
 
 ![screenshot](images/BedJet3-HA.png)
-
-<!-- BEGIN AUTO-GENERATED FOOTER -->
-
-## ❤️ Support Me
-
-I maintain this Home Assistant integration in my spare time. If you find it useful, consider supporting development:
-
-- 💜 [Sponsor me on GitHub](https://github.com/sponsors/natekspencer)
-- ☕ [Buy me a coffee / beer](https://ko-fi.com/natekspencer)
-- 💸 [PayPal (direct support)](https://www.paypal.com/paypalme/natekspencer)
-- ⭐ [Star this project](https://github.com/natekspencer/ha-bedjet)
-- 📦 If you’d like to support in other ways, such as donating hardware for testing, feel free to [reach out to me](https://github.com/natekspencer)
-
-## 📈 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=natekspencer/ha-bedjet)](https://www.star-history.com/#natekspencer/ha-bedjet)
-
-<!-- END AUTO-GENERATED FOOTER -->
