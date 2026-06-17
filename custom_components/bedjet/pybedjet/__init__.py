@@ -823,6 +823,8 @@ class BedJet:
             _LOGGER.debug("%s: Disconnected from device", self.name_and_address)
             return
         _LOGGER.warning("%s: Device unexpectedly disconnected", self.name_and_address)
+        self._client = None
+        asyncio.create_task(self._ensure_connected())
 
     def _auto_disconnect(self) -> None:
         """Disconnect from device automatically."""
